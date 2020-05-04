@@ -12,11 +12,12 @@
 
     - Creat your data in seperate folders so that during training:
                 -train 
-                        -images (images with prefix "image")
-                        -labels (same name as images with prefix "mask")
+                            1-images (images with prefix "image")
+                            2-labels (same name as images with prefix "mask")
+      and 
                 -validation
-                        -images (images with prefix "image")
-                        -labels (same name as images with prefix "mask")
+                            1-images (images with prefix "image")
+                            2-labels (same name as images with prefix "mask")
     - during the test:
                 -test
                         -Test_results_A2B (images obtained from unpaired cycleGAN)
