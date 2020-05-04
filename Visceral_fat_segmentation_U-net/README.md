@@ -30,7 +30,7 @@
 
 - Example of testing
 
-    Results will be saved at  -Predictions/Results_V
+    Results will be saved at  test/Predictions/Results_V
 
     ```console
     CUDA_VISIBLE_DEVICES=0 python main.py --Input_dir ./data --mode test
