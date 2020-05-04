@@ -9,7 +9,8 @@ Tensorflow 2 Re-implementation of Unpaired CycleGAN originally proposed by  [Jun
     - scikit-image, yaml, tqdm
     - Python 3.6
 - Dataset
-Have your 2D MR and CT slices saved at ./datasets/MRI and ./datasets/CT folders in ".png" format.
+
+        Have your 2D MR and CT slices saved at ./datasets/MRI and ./datasets/CT folders in ".png" format.
 
 - Example of training
 
