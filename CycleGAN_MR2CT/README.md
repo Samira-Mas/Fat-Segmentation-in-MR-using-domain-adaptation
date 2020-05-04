@@ -16,5 +16,6 @@ Have your 2D MR and CT slices saved at ./datasets/MRI and ./datasets/CT folders 
         CUDA_VISIBLE_DEVICES=0 python train.py
 
 - Example of testing
+
         CUDA_VISIBLE_DEVICES=0 python test.py 
    
